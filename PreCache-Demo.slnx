@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="Fetching References.csproj" />
+  <Project Path="Validating Inspector Values.csproj" />
+  <Project Path="Navigation Checks.csproj" />
+</Solution>

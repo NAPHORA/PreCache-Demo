@@ -1,0 +1,17 @@
+{
+    "name": "Navigation Checks",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f041e4f8f29109499ea932f40dbb76a",
+        "GUID:8c4dd21966739024fbd72155091d199e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

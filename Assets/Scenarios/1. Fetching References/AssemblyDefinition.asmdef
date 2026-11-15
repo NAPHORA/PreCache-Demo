@@ -1,0 +1,16 @@
+{
+    "name": "Fetching References",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f041e4f8f29109499ea932f40dbb76a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
